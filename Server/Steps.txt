@@ -1,0 +1,10 @@
+npm init 
+
+npm install --save express body-parser
+
+npm install --save-dev nodemon
+
+in package.json
+"start": "nodemon app.js"
+
+npm install --save express-graphql graphql
