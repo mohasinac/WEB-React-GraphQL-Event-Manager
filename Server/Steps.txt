@@ -8,3 +8,5 @@ in package.json
 "start": "nodemon app.js"
 
 npm install --save express-graphql graphql
+
+npm install --save mongoose
