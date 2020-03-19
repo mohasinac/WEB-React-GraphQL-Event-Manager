@@ -10,3 +10,5 @@ in package.json
 npm install --save express-graphql graphql
 
 npm install --save mongoose
+
+ npm install --save bcryptjs
